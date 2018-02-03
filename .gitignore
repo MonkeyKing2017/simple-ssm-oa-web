@@ -74,3 +74,37 @@ fabric.properties
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 
+.DS_Store
+.idea/artifacts/
+.idea/compiler.xml
+.idea/encodings.xml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+hh.test
+simple-ssm-oa-web.iml
+src/.DS_Store
+src/main/.DS_Store
+src/main/java/com/shuiliandong/demo/simple/enums/
+src/main/java/com/shuiliandong/demo/simple/service/
+src/main/resources/.DS_Store
+target/classes/applicationContext.xml
+target/classes/hehe/
+target/classes/jdbc.properties
+target/classes/mapper/
+target/classes/mybatis-generator-config.xml
+target/classes/spring-mvc-servlet.xml
+target/generated-sources/
+target/generated-test-sources/
+target/simple-ssm-oa-web-1.0-SNAPSHOT/META-INF/
+target/simple-ssm-oa-web-1.0-SNAPSHOT/WEB-INF/classes/applicationContext.xml
+target/simple-ssm-oa-web-1.0-SNAPSHOT/WEB-INF/classes/hehe/
+target/simple-ssm-oa-web-1.0-SNAPSHOT/WEB-INF/classes/jdbc.properties
+target/simple-ssm-oa-web-1.0-SNAPSHOT/WEB-INF/classes/mapper/
+target/simple-ssm-oa-web-1.0-SNAPSHOT/WEB-INF/classes/mybatis-generator-config.xml
+target/simple-ssm-oa-web-1.0-SNAPSHOT/WEB-INF/classes/spring-mvc-servlet.xml
+target/simple-ssm-oa-web-1.0-SNAPSHOT/WEB-INF/views/
+target/simple-ssm-oa-web-1.0-SNAPSHOT/WEB-INF/web.xml
+target/simple-ssm-oa-web-1.0-SNAPSHOT/assets/
+target/simple-ssm-oa-web-1.0-SNAPSHOT/index.jsp
