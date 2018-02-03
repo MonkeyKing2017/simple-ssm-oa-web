@@ -89,6 +89,7 @@ src/main/.DS_Store
 src/main/java/com/shuiliandong/demo/simple/enums/
 src/main/java/com/shuiliandong/demo/simple/service/
 src/main/resources/.DS_Store
+target
 target/classes/applicationContext.xml
 target/classes/hehe/
 target/classes/jdbc.properties
