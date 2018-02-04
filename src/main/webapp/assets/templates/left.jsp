@@ -21,6 +21,8 @@
             </form>
             <!-- END RESPONSIVE QUICK SEARCH FORM -->
         </li>
+        <!--加载导航栏 : 服务器渲染方式-->
+        <jsp:include page="/main/left"></jsp:include>
     </ul>
     <!-- END SIDEBAR MENU -->
 </div>

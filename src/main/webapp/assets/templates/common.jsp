@@ -6,6 +6,8 @@
     String baseResources = request.getScheme() + "://" + request.getServerName() + ":" + request.getServerPort()
             + path + "/assets";
     // 设置资源路径
+    request.setAttribute("basePath",basePath);
+    // 设置资源路径
     request.setAttribute("baseResources",baseResources);
 %>
 <script>
