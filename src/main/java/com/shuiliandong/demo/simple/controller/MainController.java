@@ -14,21 +14,4 @@ public class MainController {
         return modelAndView;
     }
 
-    @RequestMapping("/left")
-    public ModelAndView toLeft(){
-        ModelAndView modelAndView = new ModelAndView("main/index");
-        return modelAndView;
-    }
-
-    @RequestMapping("/top")
-    public ModelAndView toTop(){
-        ModelAndView modelAndView = new ModelAndView("main/index");
-        return modelAndView;
-    }
-
-    @RequestMapping("/foot")
-    public ModelAndView toFoot(){
-        ModelAndView modelAndView = new ModelAndView("main/index");
-        return modelAndView;
-    }
 }
