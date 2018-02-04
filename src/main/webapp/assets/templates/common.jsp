@@ -5,10 +5,9 @@
             + path + "/";
     String baseResources = request.getScheme() + "://" + request.getServerName() + ":" + request.getServerPort()
             + path + "/assets";
+    // 设置资源路径
     request.setAttribute("baseResources",baseResources);
 %>
 <script>
     var base = '${base}';
-    var baseResources = base + 'assets';
-    console.log(baseResources);
 </script>
